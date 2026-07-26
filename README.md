@@ -83,14 +83,6 @@ The database is initialized from `sql/init.sql`.
 - `PUT /tasks/update-all` — mark all tasks completed
 - `DELETE /tasks/:id` — delete a task
 
-## API Documentation
-
-Open the Swagger docs at:
-
-```text
-http://localhost:3000/docs
-```
-
 ## Notes
 
 - `NodeJS/app.js` uses the PostgreSQL repository implementation.
