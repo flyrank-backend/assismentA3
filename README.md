@@ -39,15 +39,8 @@ A Node.js Express task management API with PostgreSQL persistence and Docker sup
 npm install
 ```
 
-3. Create a `.env` file in `NodeJS/` with the database connection values:
+3. Create a `.env` file in `NodeJS/`  and take a copy of variable in the `.env.example` and put your values.
 
-```env
-DB_HOST=db
-DB_PORT=5432
-DB_NAME=tasks
-DB_USER=postgres
-DB_PASSWORD=postgres
-```
 
 ## Running locally
 
