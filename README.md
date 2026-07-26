@@ -88,3 +88,4 @@ The database is initialized from `sql/init.sql`.
 - `NodeJS/app.js` uses the PostgreSQL repository implementation.
 - `NodeJS/index.js` includes a simplified in-memory version of the API and Swagger setup.
 - Error responses are handled centrally in `src/middleware/error-handle.js`.
+ 
